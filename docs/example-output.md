@@ -82,9 +82,8 @@ What we found:
   - Your newest co-authored PR was merged on 2026-11-24: give GitHub a few days to show it.
 
 Commits that name you as co-author:
-  - Add pair note 1 (27f1595) [bilalrao36402/pair-practice, 2026-11-24] in merged PR #1
+  - Add pair note 1 (27f1595) [another account's public repo, name redacted, 2026-11-24] in merged PR #1
       Co-authored-by: Shahnawaz75 <153459617+Shahnawaz75@users.noreply.github.com> -> linked to @Shahnawaz75: counts for you
-      https://github.com/bilalrao36402/pair-practice/commit/27f1595f4f185bb09e30c3571c8b58b75b32685b
 
 Recent commits you authored with co-authors (they get the credit, not you):
   - (hidden) [(private repository), 2026-11-24]
