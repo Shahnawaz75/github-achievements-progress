@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="372" viewBox="0 0 495 372" role="img" aria-labelledby="card-title card-desc">
+<title id="card-title">@Shahnawaz75's GitHub achievements</title>
+<desc id="card-desc">Pull Shark: 18 / 128 merged PRs; Pair Extraordinaire: ~1 / 10 co-authored merged PRs; Galaxy Brain: 1 / 2 accepted answers; Starstruck: 1 / 16 stars; Quickdraw: ~19 fast closes; YOLO: ~18 unreviewed self-merged PRs; Public Sponsor: not yet</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.h{font-size:17px;font-weight:600;fill:#1f2328}.n{font-size:13px;font-weight:600;fill:#1f2328}.v{font-size:12px;fill:#59636e}.p{font-size:10px;font-weight:700}.f{font-size:10px;fill:#59636e}</style>
+<rect x="0.5" y="0.5" width="494" height="371" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text class="h" x="24" y="36">@Shahnawaz75's GitHub achievements</text>
+<text class="f" x="24" y="54">Estimated progress toward the next tier</text>
+<text class="n" x="24" y="84">Pull Shark</text>
+<text class="v" x="471" y="84" text-anchor="end">18 / 128 merged PRs</text>
+<rect x="180" y="72" width="26" height="16" rx="8" fill="#f9bfa7"/>
+<text class="p" x="193" y="83.5" text-anchor="middle" fill="#5c2410">x2</text>
+<rect x="24" y="92" width="447" height="6" rx="3" fill="#eaeef2"/>
+<rect x="24" y="92" width="62.9" height="6" rx="3" fill="#1f883d"/>
+<text class="n" x="24" y="122">Pair Extraordinaire</text>
+<text class="v" x="471" y="122" text-anchor="end">~1 / 10 co-authored merged PRs</text>
+<rect x="180" y="110" width="26" height="16" rx="8" fill="#ddf4ff"/>
+<text class="p" x="193" y="121.5" text-anchor="middle" fill="#0550ae">x1</text>
+<rect x="24" y="130" width="447" height="6" rx="3" fill="#eaeef2"/>
+<rect x="24" y="130" width="44.7" height="6" rx="3" fill="#1f883d"/>
+<text class="n" x="24" y="160">Galaxy Brain</text>
+<text class="v" x="471" y="160" text-anchor="end">1 / 2 accepted answers</text>
+<rect x="24" y="168" width="447" height="6" rx="3" fill="#eaeef2"/>
+<rect x="24" y="168" width="223.5" height="6" rx="3" fill="#1f883d"/>
+<text class="n" x="24" y="198">Starstruck</text>
+<text class="v" x="471" y="198" text-anchor="end">1 / 16 stars</text>
+<rect x="24" y="206" width="447" height="6" rx="3" fill="#eaeef2"/>
+<rect x="24" y="206" width="27.9" height="6" rx="3" fill="#1f883d"/>
+<text class="n" x="24" y="236">Quickdraw</text>
+<text class="v" x="471" y="236" text-anchor="end">~19 fast closes</text>
+<rect x="180" y="224" width="46" height="16" rx="8" fill="#dafbe1"/>
+<text class="p" x="203" y="235.5" text-anchor="middle" fill="#116329">earned</text>
+<rect x="24" y="244" width="447" height="6" rx="3" fill="#eaeef2"/>
+<rect x="24" y="244" width="447.0" height="6" rx="3" fill="#1f883d"/>
+<text class="n" x="24" y="274">YOLO</text>
+<text class="v" x="471" y="274" text-anchor="end">~18 unreviewed self-merged PRs</text>
+<rect x="180" y="262" width="46" height="16" rx="8" fill="#dafbe1"/>
+<text class="p" x="203" y="273.5" text-anchor="middle" fill="#116329">earned</text>
+<rect x="24" y="282" width="447" height="6" rx="3" fill="#eaeef2"/>
+<rect x="24" y="282" width="447.0" height="6" rx="3" fill="#1f883d"/>
+<text class="n" x="24" y="312">Public Sponsor</text>
+<text class="v" x="471" y="312" text-anchor="end">not yet</text>
+<rect x="24" y="320" width="447" height="6" rx="3" fill="#eaeef2"/>
+<text class="f" x="24" y="358">Tiers are community-documented, not official &#183; github-achievements-progress</text>
+</svg>
