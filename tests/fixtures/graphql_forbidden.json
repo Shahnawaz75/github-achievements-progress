@@ -1,0 +1,13 @@
+{
+  "data": null,
+  "errors": [
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "user",
+        "sponsoring"
+      ],
+      "message": "Resource not accessible by integration"
+    }
+  ]
+}

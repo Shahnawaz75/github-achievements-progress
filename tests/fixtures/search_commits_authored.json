@@ -1,0 +1,34 @@
+{
+  "total_count": 2,
+  "incomplete_results": false,
+  "items": [
+    {
+      "sha": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "html_url": "https://github.com/octo-dev/tools/commit/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "repository": {
+        "full_name": "octo-dev/tools",
+        "private": false
+      },
+      "commit": {
+        "message": "Pair on the CLI\n\nCo-authored-by: Robo Helper <helper@robots.example>\nCo-authored-by: pal <99+pal@users.noreply.github.com>",
+        "committer": {
+          "date": "2026-11-21T09:00:00.000+00:00"
+        }
+      }
+    },
+    {
+      "sha": "ffffffffffffffffffffffffffffffffffffffff",
+      "html_url": "https://github.com/octo-dev/secret/commit/ffffffffffffffffffffffffffffffffffffffff",
+      "repository": {
+        "full_name": "octo-dev/secret",
+        "private": true
+      },
+      "commit": {
+        "message": "Secret work\n\nCo-authored-by: Ghost <ghost@nowhere.example>",
+        "committer": {
+          "date": "2026-11-20T09:00:00.000+00:00"
+        }
+      }
+    }
+  ]
+}

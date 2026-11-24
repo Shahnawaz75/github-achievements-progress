@@ -1,0 +1,42 @@
+{
+  "data": {
+    "c0": {
+      "object": {
+        "authors": {
+          "nodes": [
+            {
+              "email": "1234+octo-dev@users.noreply.github.com",
+              "user": {
+                "login": "octo-dev"
+              }
+            },
+            {
+              "email": "helper@robots.example",
+              "user": null
+            },
+            {
+              "email": "99+pal@users.noreply.github.com",
+              "user": {
+                "login": "pal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "c1": {
+      "object": {
+        "authors": {
+          "nodes": [
+            {
+              "email": "1234+octo-dev@users.noreply.github.com",
+              "user": {
+                "login": "octo-dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

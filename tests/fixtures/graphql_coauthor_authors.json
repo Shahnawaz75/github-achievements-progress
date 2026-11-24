@@ -1,0 +1,88 @@
+{
+  "data": {
+    "c0": {
+      "object": {
+        "authors": {
+          "nodes": [
+            {
+              "email": "friend@example.com",
+              "user": {
+                "login": "friend"
+              }
+            },
+            {
+              "email": "1234+octo-dev@users.noreply.github.com",
+              "user": {
+                "login": "octo-dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "c1": {
+      "object": {
+        "authors": {
+          "nodes": [
+            {
+              "email": "pal@example.com",
+              "user": {
+                "login": "pal"
+              }
+            },
+            {
+              "email": "1234+octo-dev@users.noreply.github.com",
+              "user": {
+                "login": "octo-dev"
+              }
+            },
+            {
+              "email": "99+pal@users.noreply.github.com",
+              "user": {
+                "login": "pal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "c2": {
+      "object": {
+        "authors": {
+          "nodes": [
+            {
+              "email": "friend@example.com",
+              "user": {
+                "login": "friend"
+              }
+            },
+            {
+              "email": "octo@old-mail.example",
+              "user": null
+            }
+          ]
+        }
+      }
+    },
+    "c3": {
+      "object": {
+        "authors": {
+          "nodes": [
+            {
+              "email": "friend@example.com",
+              "user": {
+                "login": "friend"
+              }
+            },
+            {
+              "email": "octo@work.example",
+              "user": {
+                "login": "octo-work"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

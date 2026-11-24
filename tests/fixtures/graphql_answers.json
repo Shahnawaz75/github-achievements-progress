@@ -1,0 +1,53 @@
+{
+  "data": {
+    "user": {
+      "answers": {
+        "totalCount": 3,
+        "nodes": [
+          {
+            "url": "https://github.com/acme/lib/discussions/1#discussioncomment-11",
+            "createdAt": "2026-10-01T10:00:00Z",
+            "discussion": {
+              "title": "How do I parse a config file?",
+              "category": {
+                "name": "Q&A"
+              },
+              "repository": {
+                "nameWithOwner": "acme/lib",
+                "isPrivate": false
+              }
+            }
+          },
+          {
+            "url": "https://github.com/acme/app/discussions/8#discussioncomment-12",
+            "createdAt": "2026-09-01T10:00:00Z",
+            "discussion": {
+              "title": "Build fails on Windows",
+              "category": {
+                "name": "Q&A"
+              },
+              "repository": {
+                "nameWithOwner": "acme/app",
+                "isPrivate": false
+              }
+            }
+          },
+          {
+            "url": "https://github.com/orgs/community/discussions/5#discussioncomment-13",
+            "createdAt": "2025-01-01T10:00:00Z",
+            "discussion": {
+              "title": "Old community answer",
+              "category": {
+                "name": "General"
+              },
+              "repository": {
+                "nameWithOwner": "community/community",
+                "isPrivate": false
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

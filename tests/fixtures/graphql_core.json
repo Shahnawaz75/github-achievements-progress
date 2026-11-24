@@ -1,0 +1,105 @@
+{
+  "data": {
+    "user": {
+      "merged": {
+        "totalCount": 18,
+        "nodes": [
+          {
+            "number": 3,
+            "title": "Fix typo",
+            "url": "https://github.com/octo-dev/tools/pull/3",
+            "mergedAt": "2026-11-19T05:27:41Z",
+            "repository": {
+              "nameWithOwner": "octo-dev/tools",
+              "isPrivate": false
+            },
+            "mergedBy": {
+              "login": "octo-dev"
+            },
+            "reviews": {
+              "totalCount": 0
+            }
+          },
+          {
+            "number": 7,
+            "title": "Internal change",
+            "url": "https://github.com/octo-dev/secret/pull/7",
+            "mergedAt": "2026-11-10T10:00:00Z",
+            "repository": {
+              "nameWithOwner": "octo-dev/secret",
+              "isPrivate": true
+            },
+            "mergedBy": {
+              "login": "Octo-Dev"
+            },
+            "reviews": {
+              "totalCount": 0
+            }
+          },
+          {
+            "number": 2,
+            "title": "Reviewed change",
+            "url": "https://github.com/octo-dev/tools/pull/2",
+            "mergedAt": "2026-11-01T08:00:00Z",
+            "repository": {
+              "nameWithOwner": "octo-dev/tools",
+              "isPrivate": false
+            },
+            "mergedBy": {
+              "login": "octo-dev"
+            },
+            "reviews": {
+              "totalCount": 1
+            }
+          },
+          {
+            "number": 41,
+            "title": "Upstream fix",
+            "url": "https://github.com/acme/big/pull/41",
+            "mergedAt": "2026-10-20T12:00:00Z",
+            "repository": {
+              "nameWithOwner": "acme/big",
+              "isPrivate": false
+            },
+            "mergedBy": {
+              "login": "maintainer"
+            },
+            "reviews": {
+              "totalCount": 0
+            }
+          },
+          {
+            "number": 1,
+            "title": "Merged by a deleted account",
+            "url": "https://github.com/octo-dev/tools/pull/1",
+            "mergedAt": "2026-10-01T12:00:00Z",
+            "repository": {
+              "nameWithOwner": "octo-dev/tools",
+              "isPrivate": false
+            },
+            "mergedBy": null,
+            "reviews": {
+              "totalCount": 0
+            }
+          }
+        ]
+      },
+      "repositories": {
+        "nodes": [
+          {
+            "nameWithOwner": "octo-dev/tools",
+            "url": "https://github.com/octo-dev/tools",
+            "stargazerCount": 20,
+            "isPrivate": false
+          },
+          {
+            "nameWithOwner": "octo-dev/notes",
+            "url": "https://github.com/octo-dev/notes",
+            "stargazerCount": 3,
+            "isPrivate": false
+          }
+        ]
+      }
+    }
+  }
+}
