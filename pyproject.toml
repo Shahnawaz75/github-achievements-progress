@@ -1,0 +1,59 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "github-achievements-progress"
+version = "0.1.0"
+description = "See how close you are to every GitHub achievement tier (Pull Shark, Pair Extraordinaire, Galaxy Brain, Starstruck, Quickdraw, YOLO) and why a badge didn't unlock. CLI, SVG profile card and GitHub Action."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Shahnawaz75" }]
+keywords = [
+    "github", "github-achievements", "achievements", "badges", "github-badges",
+    "pull-shark", "pair-extraordinaire", "galaxy-brain", "starstruck", "quickdraw", "yolo",
+    "github-profile", "profile-readme", "readme-card", "svg", "github-action", "cli",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development",
+    "Topic :: Utilities",
+    "Typing :: Typed",
+]
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/Shahnawaz75/github-achievements-progress"
+Documentation = "https://shahnawaz75.github.io/github-achievements-progress/"
+Repository = "https://github.com/Shahnawaz75/github-achievements-progress"
+Issues = "https://github.com/Shahnawaz75/github-achievements-progress/issues"
+Changelog = "https://github.com/Shahnawaz75/github-achievements-progress/blob/main/CHANGELOG.md"
+
+[project.scripts]
+gh-achievements = "github_achievements_progress.cli:run"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/github_achievements_progress"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "tests", "docs", "README.md", "CHANGELOG.md", "LICENSE", "action.yml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
